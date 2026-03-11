@@ -1,0 +1,5 @@
+{
+  "name": "Send Bottle to Someone",
+  "description": "Send a message in a bottle to someone across the digital ocean.",
+  "requestFramePermissions": []
+}
